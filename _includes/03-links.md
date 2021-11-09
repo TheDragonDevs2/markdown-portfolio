@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+# <h2> real nice websites
+http://youareanidiot.org/
+http://youdontknowwhoiam.org/
