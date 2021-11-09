@@ -1,3 +1,1 @@
-# <h2> real nice websites
-http://youareanidiot.org/
-http://youdontknowwhoiam.org/
+[profile](https://github.com/settings/profile)
